@@ -10,4 +10,4 @@ sudo pip install pibrella
 git clone https://github.com/pimoroni/pibrella
 # Scroll PHAT now installed
 curl -sSL get.pimoroni.com/scrollphat | bash
-
+cat etc-hosts >> /etc/hosts
